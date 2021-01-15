@@ -1,1 +1,2 @@
-# simple-node.js-project-reference-
+# simple-node.js-project-reference
+This project is a simple reference to simple concepts.
